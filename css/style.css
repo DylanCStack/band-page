@@ -5,7 +5,12 @@ body {
 .sidebar {
   background-color:orange;
   float:right;
+  height:475px;
+  padding:10px;
+  margin:10px;
+
   padding-left: 10px;
+  border:5px solid red;
 }
 
 .intro {
@@ -27,4 +32,6 @@ body {
 img {
   width:350px;
   height:auto;
+  padding: 10px;
+  border:5px solid blue;
 }
