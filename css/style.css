@@ -1,0 +1,30 @@
+body {
+  font-family:fantasy;
+}
+
+.sidebar {
+  background-color:orange;
+  float:right;
+  padding-left: 10px;
+}
+
+.intro {
+  background-color: purple;
+}
+
+.intro img {
+
+  float:left;
+}
+
+.bio {
+  background-color: green;
+}
+
+.bio img {
+  float:right;
+}
+img {
+  width:350px;
+  height:auto;
+}
